@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://github-readme-stats.vercel.app/api/?username=gbbgalvao&amp;show_icons=true&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=0c0c0c" style="max-width: 100%;">
 
 <!--
 **gbbgalvao/gbbgalvao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
