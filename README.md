@@ -1,7 +1,7 @@
 <h2>Formação</h2>
 <li>Técnico em desenvolvimento de sistemas- Senai</li><br>
 
-<img src="https://github-readme-stats.vercel.app/api/?username=gbbgalvao&amp;show_icons=true&amp;title_color=FF9333&amp;icon_color=FF9333&amp;text_color=dc645c&amp;bg_color=f4f4f4" style="max-width: 100%;">
+<img src="https://github-readme-stats.vercel.app/api/?username=gbbgalvao&amp;show_icons=true&amp;title_color=f58a18&amp;icon_color=f58a18&amp;text_color=dc645c&amp;bg_color=f4f4f4" style="max-width: 100%;">
 
 <h2>Linguagens</h2>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height= "50"></code>
