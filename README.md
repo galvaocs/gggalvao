@@ -1,5 +1,5 @@
 <h2>Formação</h2>
-<li>Técnico em desenvolvimento de sistemas</li><br><br>
+<li>Técnico em desenvolvimento de sistemas- Senai</li><br><br>
 
 <img src="https://github-readme-stats.vercel.app/api/?username=gbbgalvao&amp;show_icons=true&amp;title_color=FF9333&amp;icon_color=FF9333&amp;text_color=dc645c&amp;bg_color=f4f4f4" style="max-width: 100%;">
 
