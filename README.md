@@ -1,15 +1,18 @@
 <h2>Formação</h2>
 <li>Técnico em desenvolvimento de sistemas- Senai</li><br>
 
-<img src="https://github-readme-stats.vercel.app/api/?username=gbbgalvao&amp;show_icons=true&amp;title_color=f58a18&amp;icon_color=f58a18&amp;text_color=dc645c&amp;bg_color=f4f4f4" style="max-width: 100%;">
+<img src="https://github-readme-stats.vercel.app/api/?username=gmrques&amp;show_icons=true&amp;title_color=f58a18&amp;icon_color=f58a18&amp;text_color=dc645c&amp;bg_color=f4f4f4" style="max-width: 100%;">
 
-<h2>Linguagens</h2>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height= "50"></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height= "50"></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height= "50"></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height= "50"></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height= "50"></code>
-
+<h2>Skills</h2>
+<div style="display: inline-block">
+  <img src="https://img.shields.io/badge/HTML-FF6316?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-563D7C?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white" />
+</div>
 
 
 
