@@ -1,4 +1,4 @@
-<h2>Formação</h2>
+<h2> Formação</h2>
 <h3><li>Técnico em desenvolvimento de sistemas- Senai.</li></h3>
 
 <img src="https://github-readme-stats.vercel.app/api/?username=gmrques&amp;show_icons=true&amp;title_color=f58a18&amp;icon_color=f58a18&amp;text_color=dc645c&amp;bg_color=f4f4f4" style="max-width: 100%;">
@@ -10,8 +10,8 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-563D7C?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white" /> -->
 </div>
 
 
