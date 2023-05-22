@@ -1,7 +1,7 @@
 <h2>Formação:</h2>
-  <li>Técnico em desenvolvimento de sistemas- Senai.</li><hr>
+  <li>Técnico em desenvolvimento de sistemas- Senai.</li><br>
 
-<img src="https://github-readme-stats.vercel.app/api/?username=gmrques&amp;show_icons=true&amp;title_color=f58a18&amp;icon_color=f58a18&amp;text_color=dc645c&amp;bg_color=f4f4f4" style="max-width: 100%;"><hr>
+<img src="https://github-readme-stats.vercel.app/api/?username=gmrques&amp;show_icons=true&amp;title_color=f58a18&amp;icon_color=f58a18&amp;text_color=dc645c&amp;bg_color=f4f4f4" style="max-width: 100%;">
 
 <h2>Skills</h2>
 <div style="display: inline-block">
@@ -13,8 +13,6 @@
   <!-- <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white" /> -->
 </div>
-
-
 
 <!--
 **gbbgalvao/gbbgalvao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
