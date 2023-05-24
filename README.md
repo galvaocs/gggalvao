@@ -14,6 +14,9 @@
   <img src="https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white" /> -->
 </div>
 
+  ![Snake animation](https://github.com/gmrques/gmrques/blob/output/github-contribution-grid-snake.svg)
+
+
 <!--
 **gbbgalvao/gbbgalvao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
