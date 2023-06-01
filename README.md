@@ -1,8 +1,6 @@
 <h2>Formação:</h2>
   <li>Técnico em desenvolvimento de sistemas- Senai.</li><br>
 
-<img src="https://github-readme-stats.vercel.app/api/?username=gmrques&amp;show_icons=true&amp;title_color=f58a18&amp;icon_color=f58a18&amp;text_color=dc645c&amp;bg_color=f4f4f4" style="max-width: 100%;">
-
 <h2>Skills</h2>
 <div style="display: inline-block">
   <img src="https://img.shields.io/badge/HTML-FF6316?style=for-the-badge&logo=html5&logoColor=white" />
