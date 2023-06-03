@@ -1,6 +1,9 @@
 <h2>Formação:</h2>
   <li>Técnico em desenvolvimento de sistemas- Senai.</li><br>
 
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmrques&show_icons=true&theme=tokyonight)
+
+
 <h2>Skills</h2>
 <div style="display: inline-block">
   <img src="https://img.shields.io/badge/HTML-FF6316?style=for-the-badge&logo=html5&logoColor=white" />
