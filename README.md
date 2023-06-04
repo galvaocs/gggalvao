@@ -6,13 +6,12 @@
 
 <h2>Skills</h2>
 <div style="display: inline-block">
-  <img src="https://img.shields.io/badge/HTML-FF6316?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-563D7C?style=for-the-badge&logo=php&logoColor=white" />
-  <!-- <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white" /> -->
+  <img src="https://img.shields.io/badge/HTML-F27132?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F9E440?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/CSS-31849A?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-223581?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-243863?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-243863?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </div>
 
 <!--
