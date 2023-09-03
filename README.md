@@ -1,5 +1,5 @@
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmrques&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmrques&layout=compact&langs_count=16&theme=radical)](https://github.com/gmrques/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmrques&layout=donut&theme=tokyonight)](https://github.com/gmrques/github-readme-stats)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmrques&show_icons=true&theme=tokyonight)
 
 <!--
 **gbbgalvao/gbbgalvao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
