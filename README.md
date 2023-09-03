@@ -16,7 +16,7 @@
 
 <h2>Banco de dados utilizado:</h2>
 
-![My SQL](https://img.shields.io/badge/MySQL-29313d?style=for-the-badge&logo=mysql&logoColor=FFD43B)
+![My SQL](https://img.shields.io/badge/MySQL-29313d?style=for-the-badge&logo=mysql&logoColor=0078D4)
 
 <!--
 **gbbgalvao/gbbgalvao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
