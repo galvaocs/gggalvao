@@ -1,6 +1,6 @@
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmrques&show_icons=true&theme=great-gatsby)
 
-<h2>Linguagens utilizadas:</h2>
+<h2>Principais Linguagens:</h2>
 
 ![C#](https://img.shields.io/badge/c%23-000000.svg?style=for-the-badge&logo=c-sharp&logoColor=5C2D91)
 ![C++](https://img.shields.io/badge/c++-000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=0078D4)
