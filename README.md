@@ -1,4 +1,4 @@
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmrques&show_icons=true&theme=great-gatsby)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gggalvao._&show_icons=true&theme=great-gatsby)
 
 <h2>Principais Linguagens:</h2>
 
