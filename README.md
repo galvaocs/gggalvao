@@ -2,15 +2,15 @@
 
 <h2>Principais Linguagens:</h2>
 
-![C#](https://img.shields.io/badge/c%23-000000.svg?style=for-the-badge&logo=c-sharp&logoColor=5C2D91)
-![C++](https://img.shields.io/badge/c++-000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=0078D4)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFD43B)
+![C#](https://img.shields.io/badge/c%23-dce6fa.svg?style=for-the-badge&logo=c-sharp&logoColor=6d40a6)
+![C++](https://img.shields.io/badge/c++-dce6fa.svg?style=for-the-badge&logo=c%2B%2B&logoColor=4d99d5)
+![Python](https://img.shields.io/badge/Python-dce6fa?style=for-the-badge&logo=python&logoColor=f7be69)
 
 <h2>IDE's / Editor de texto utilizados:</h2>
 
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-000000?style=for-the-badge&logo=visual%20studio&logoColor=5C2D91)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4)
-![Arduino](https://img.shields.io/badge/Arduino_IDE-000000?style=for-the-badge&logo=arduino&logoColor=00979D)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-dce6fa?style=for-the-badge&logo=visual%20studio&logoColor=6d40a6)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-dce6fa?style=for-the-badge&logo=visual%20studio%20code&logoColor=4d99d5)
+![Arduino](https://img.shields.io/badge/Arduino_IDE-dce6fa?style=for-the-badge&logo=arduino&logoColor=4d99d5)
 
 <!--
 **gbbgalvao/gbbgalvao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
