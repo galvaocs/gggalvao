@@ -2,15 +2,15 @@
 
 <h2>Principais Linguagens:</h2>
 
-![C#](https://img.shields.io/badge/c%23-6d40a6.svg?style=for-the-badge&logo=c-sharp&logoColor=dce6fa)
-![C++](https://img.shields.io/badge/c++-6d40a6.svg?style=for-the-badge&logo=c%2B%2B&logoColor=dce6fa)
-![Python](https://img.shields.io/badge/Python-6d40a6?style=for-the-badge&logo=python&logoColor=dce6fa)
+![C#](https://img.shields.io/badge/c%23-291b3e.svg?style=for-the-badge&logo=c-sharp&logoColor=dce6fa)
+![C++](https://img.shields.io/badge/c++-291b3e.svg?style=for-the-badge&logo=c%2B%2B&logoColor=dce6fa)
+![Python](https://img.shields.io/badge/Python-291b3e?style=for-the-badge&logo=python&logoColor=dce6fa)
 
 <h2>IDE's / Editor de texto utilizados:</h2>
 
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-6d40a6?style=for-the-badge&logo=visual%20studio&logoColor=dce6fa)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-6d40a6?style=for-the-badge&logo=visual%20studio%20code&logoColor=dce6fa)
-![Arduino](https://img.shields.io/badge/Arduino_IDE-6d40a6?style=for-the-badge&logo=arduino&logoColor=dce6fa)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-291b3e?style=for-the-badge&logo=visual%20studio&logoColor=dce6fa)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-291b3e?style=for-the-badge&logo=visual%20studio%20code&logoColor=dce6fa)
+![Arduino](https://img.shields.io/badge/Arduino_IDE-291b3e?style=for-the-badge&logo=arduino&logoColor=dce6fa)
 
 <!--
 **gbbgalvao/gbbgalvao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
