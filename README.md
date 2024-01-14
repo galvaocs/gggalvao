@@ -6,9 +6,9 @@
 
 <h2>IDE's / Editor de texto utilizados:</h2>
 
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-291b3e?style=for-the-badge&logo=visual%20studio&logoColor=dce6fa)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-291b3e?style=for-the-badge&logo=visual%20studio%20code&logoColor=dce6fa)
-![Arduino](https://img.shields.io/badge/Arduino_IDE-291b3e?style=for-the-badge&logo=arduino&logoColor=dce6fa)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-9869a7?style=for-the-badge&logo=visual%20studio&logoColor=dce6fa)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-2b98f1?style=for-the-badge&logo=visual%20studio%20code&logoColor=dce6fa)
+![Arduino](https://img.shields.io/badge/Arduino_IDE-2596be?style=for-the-badge&logo=arduino&logoColor=dce6fa)
 
 <!--
 **gbbgalvao/gbbgalvao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
