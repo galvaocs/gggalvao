@@ -2,7 +2,7 @@
 
 <h2>Principais Linguagens:</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galvaocs&layout=donut&theme=jolly)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galvaocs&layout=compact&theme=jolly)
 
 <h2>IDE's / Editor de texto utilizados:</h2>
 
