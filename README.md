@@ -1,8 +1,8 @@
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=galvaocs&show_icons=true&theme=prussian)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=galvaocs&show_icons=true&theme=tokyonight)
 
 <h2>Principais Linguagens:</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galvaocs&layout=compact&theme=prussian)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galvaocs&layout=compact&theme=tokyonight)
 
 <h2>IDE's / Editor de texto utilizados:</h2>
 
