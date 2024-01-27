@@ -1,18 +1,18 @@
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=galvaocs&show_icons=true&theme=graywhite)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=galvaocs&show_icons=true&theme=vue)
 
 <h2>Principais Linguagens:</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galvaocs&layout=donut&theme=graywhite)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galvaocs&layout=compact&theme=vue)
 
 <h2>IDE's / Editor de texto utilizados:</h2>
 
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-7c5892?style=for-the-badge&logo=visual%20studio&logoColor=dce6fa)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-2b98f1?style=for-the-badge&logo=visual%20studio%20code&logoColor=dce6fa)
-![Arduino](https://img.shields.io/badge/Arduino_IDE-2596be?style=for-the-badge&logo=arduino&logoColor=dce6fa)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-ffffff?style=for-the-badge&logo=visual%20studio&logoColor=7c5892)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-ffffff?style=for-the-badge&logo=visual%20studio%20code&logoColor=2b98f1)
+![Arduino](https://img.shields.io/badge/Arduino_IDE-ffffff?style=for-the-badge&logo=arduino&logoColor=2596be)
 
 <h2>Estou aprendendo:</h2>
 
-![.Net](https://img.shields.io/badge/.NET-7c5892?style=for-the-badge&logo=.net&logoColor=dce6fa)
-![Angular](https://img.shields.io/badge/angular-De3a3a.svg?style=for-the-badge&logo=angular&logoColor=dce6fa)
-![Vue.js](https://img.shields.io/badge/vuejs-2b98f1.svg?style=for-the-badge&logo=vuedotjs&logoColor=dce6fa)
-![Laravel](https://img.shields.io/badge/laravel-E07930.svg?style=for-the-badge&logo=laravel&logoColor=dce6fa)
+![.Net](https://img.shields.io/badge/.NET-ffffff?style=for-the-badge&logo=.net&logoColor=7c5892)
+![Angular](https://img.shields.io/badge/angular-ffffff.svg?style=for-the-badge&logo=angular&logoColor=De3a3a)
+![Vue.js](https://img.shields.io/badge/vuejs-ffffff.svg?style=for-the-badge&logo=vuedotjs&logoColor=2b98f1)
+![Laravel](https://img.shields.io/badge/laravel-ffffff.svg?style=for-the-badge&logo=laravel&logoColor=E07930)
