@@ -6,13 +6,13 @@
 
 <h2>IDE's / Editor de texto utilizados:</h2>
 
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-0d1117?style=for-the-badge&logo=visual%20studio&logoColor=7c5892)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0d1117?style=for-the-badge&logo=visual%20studio%20code&logoColor=2b98f1)
-![Arduino](https://img.shields.io/badge/Arduino_IDE-0d1117?style=for-the-badge&logo=arduino&logoColor=2596be)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-1f2430?style=for-the-badge&logo=visual%20studio&logoColor=51597e)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-1f2430?style=for-the-badge&logo=visual%20studio%20code&logoColor=85b8bc)
+![Arduino](https://img.shields.io/badge/Arduino_IDE-1f2430?style=for-the-badge&logo=arduino&logoColor=85b8bc)
 
 <h2>Estou aprendendo:</h2>
 
-![.Net](https://img.shields.io/badge/.NET-0d1117?style=for-the-badge&logo=.net&logoColor=7c5892)
-![Angular](https://img.shields.io/badge/angular-0d1117.svg?style=for-the-badge&logo=angular&logoColor=De3a3a)
-![Vue.js](https://img.shields.io/badge/vuejs-0d1117.svg?style=for-the-badge&logo=vuedotjs&logoColor=2b98f1)
-![Laravel](https://img.shields.io/badge/laravel-0d1117.svg?style=for-the-badge&logo=laravel&logoColor=E07930)
+![.Net](https://img.shields.io/badge/.NET-1f2430?style=for-the-badge&logo=.net&logoColor=51597e)
+![Angular](https://img.shields.io/badge/angular-1f2430.svg?style=for-the-badge&logo=angular&logoColor=9f414f)
+![Vue.js](https://img.shields.io/badge/vuejs-1f2430.svg?style=for-the-badge&logo=vuedotjs&logoColor=85b8bc)
+![Laravel](https://img.shields.io/badge/laravel-1f2430.svg?style=for-the-badge&logo=laravel&logoColor=f4ce3e)
