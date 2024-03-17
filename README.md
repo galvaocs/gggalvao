@@ -14,5 +14,6 @@
 
 ![.Net](https://img.shields.io/badge/.NET-282828?style=for-the-badge&logo=.net&logoColor=51597e)
 ![Angular](https://img.shields.io/badge/angular-282828.svg?style=for-the-badge&logo=angular&logoColor=9f414f)
+![NodeJS](https://img.shields.io/badge/node.js-282828?style=for-the-badge&logo=node.js&logoColor=6DA55F)
 ![Vue.js](https://img.shields.io/badge/vuejs-282828.svg?style=for-the-badge&logo=vuedotjs&logoColor=61aad2)
 ![Laravel](https://img.shields.io/badge/laravel-282828.svg?style=for-the-badge&logo=laravel&logoColor=f4ce3e)
