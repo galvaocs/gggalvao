@@ -1,5 +1,7 @@
 <h2>Olá! Sou o Gabriel!</h2>
-<p>Tive meu contato inicial com programação em 2022, enquanto cursava o técnico em desenvolvimento de sistemas, desde lá sigo aprimorando meus conhecimentos técnicos. Além da parte web, também me interesso bastante por sistemas embarcados.</p>
+
+> [!IMPORTANT]  
+> Tive meu contato inicial com programação em 2022, enquanto cursava o técnico em desenvolvimento de sistemas, desde lá sigo aprimorando meus conhecimentos técnicos. Além da parte web, também me interesso bastante por sistemas embarcados.
 
 <hr>
 <h3>IDE's / Editor de texto utilizados:</h3>
