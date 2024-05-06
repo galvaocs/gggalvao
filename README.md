@@ -1,11 +1,15 @@
+<h2>Olá! Sou o Gabriel!</h2>
+<p>Tive meu contato inicial com programação em 2022, enquanto cursava o técnico em desenvolvimento de sistemas, desde lá sigo aprimorando meus conhecimentos técnicos. Além da parte web, também me interesso bastante por sistemas embarcados.</p>
 
-
+<hr>
 <h3>IDE's / Editor de texto utilizados:</h3>
 
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-060909?style=for-the-badge&logo=visual%20studio%20code&logoColor=3572a5)
 ![Arduino](https://img.shields.io/badge/Arduino_IDE-060909?style=for-the-badge&logo=arduino&logoColor=3572a5)
 
+<hr>
 <h3>Estou aprendendo:</h3>
+
 
 ![Angular](https://img.shields.io/badge/angular-060909.svg?style=for-the-badge&logo=angular&logoColor=d44726)
 ![Laravel](https://img.shields.io/badge/laravel-060909.svg?style=for-the-badge&logo=laravel&logoColor=d44726)
