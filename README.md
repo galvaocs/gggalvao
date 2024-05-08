@@ -10,6 +10,17 @@
 ![Arduino](https://img.shields.io/badge/Arduino_IDE-060909?style=for-the-badge&logo=arduino&logoColor=3572a5)
 
 <hr>
+<h3>Tecnologias atualmente utilizadas:</h3>
+
+![HTML5](https://img.shields.io/badge/HTML5-060909?style=for-the-badge&logo=html5&logoColor=d44726)
+![CSS3](https://img.shields.io/badge/CSS3-060909?style=for-the-badge&logo=css3&logoColor=3572a5)
+![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-060909?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
+![PHP](https://img.shields.io/badge/PHP-060909?style=for-the-badge&logo=php&logoColor=563D7C)
+![PANDAS](https://img.shields.io/badge/Pandas-060909?style=for-the-badge&logo=pandas&logoColor=563D7C)
+![PYTHON](https://img.shields.io/badge/Python-060909?style=for-the-badge&logo=python&logoColor=F7DF1E)
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-060909?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+<hr>
 <h3>Estou aprendendo:</h3>
 
 ![Angular](https://img.shields.io/badge/angular-060909.svg?style=for-the-badge&logo=angular&logoColor=d44726)
