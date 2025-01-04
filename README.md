@@ -1,3 +1,11 @@
+<hr>
+
+<b>SO:</b><br>
+<br>![Linux](https://img.shields.io/badge/Linux-E7A80D?style=for-the-badge&logo=linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E74C3C?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+<hr>
+
 <b>IDE's/Editores de texto: </b><br>
 <br>![VS Code](https://img.shields.io/badge/Visual_Studio_Code-4285F4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino_IDE-4285F4?style=for-the-badge&logo=arduino&logoColor=white)
@@ -25,5 +33,3 @@
 <br>![Espressif](https://img.shields.io/badge/espressif-FF9900.svg?style=for-the-badge&logo=espressif&logoColor=white)
 ![Raspberrypi](https://img.shields.io/badge/Raspberry%20Pi-F43F5E?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-1D4ED8.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-<hr>
