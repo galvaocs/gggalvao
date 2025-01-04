@@ -1,5 +1,3 @@
-<hr>
-
 <b>SO:</b><br>
 <br>![Linux](https://img.shields.io/badge/Linux-E7A80D?style=for-the-badge&logo=linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E74C3C?style=for-the-badge&logo=ubuntu&logoColor=white)
